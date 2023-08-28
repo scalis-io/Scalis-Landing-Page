@@ -1,0 +1,106 @@
+.Section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    width: 1360px;
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+
+.sec---1 {
+    display: flex;
+}
+
+.text-info-sec-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.descri---sec1 {
+    color: #727482;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.intro---sec1-- {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.intro---sec1 {
+    width: 633px;
+    color: #727482;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.tittle---sec1 {
+    margin: 0;
+    color: #000;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.input---sec-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-list {
+    padding-right: 10px;
+}
+
+.input--sec-1 {
+    font-size: 20px;
+    color: #727482;
+    width: 334px;
+    height: 38px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #727482;
+    background: #FFF;
+}
+
+.button-confirm--sec-1 {
+    width: 195px;
+    height: 38px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px solid #001298;
+    background: #001298;
+}.button-confirm--sec-1:hover {
+    background: #0526ca;
+}
+
+.txt-button-confirm {
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 22.4px */
+}
+
+.image--sec-1 {
+    height: 500px;
+}

@@ -1,0 +1,76 @@
+.footer {
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    height: 432px;
+    background: var(--off-white-60, #E5F2FF);
+}
+
+.seson-1-footer {
+    width: 1252px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.txt-footer-left {
+    color: #001298;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.6px;
+}
+
+.seson-left {
+    display: grid;
+    gap: 10px;
+}
+
+.seson-right {
+    gap: 40px;
+    display: flex;
+}
+
+.sections-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.tittle-link {
+    color: #001298;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.64px;
+}
+
+.txt-link {
+    margin: 5px;
+    color: #001298;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.64px;
+}
+
+.bootom-sec-footer {
+    width: 1252px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.judi-link {
+    display: flex;
+    gap: 10px;
+}

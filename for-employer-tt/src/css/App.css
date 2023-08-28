@@ -1,0 +1,20 @@
+body::-webkit-scrollbar {
+    width: 12px; 
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #00000057;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #ccd6e0;
+    border-radius: 20px; 
+  }
+
+  .sections {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+  }
