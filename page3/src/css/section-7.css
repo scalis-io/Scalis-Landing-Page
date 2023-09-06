@@ -1,0 +1,134 @@
+.section-7 {
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-bottom: 100px;
+}
+
+.line--sec-7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.button-read {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 158px;
+    height: 33px;
+    flex-shrink: 0;
+    border-radius: 7.5px;
+    border: 1px solid #D6D4D2;
+    background: var(--white-100-main, #FFF);
+}
+
+.txt-button-read {
+    color: #0527CA;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.txt-sub-sec-7 {
+    width: 105px;
+    height: 27px;
+    flex-shrink: 0;
+    color: #727482;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.txt-tittle-sec-7 {
+    color: #535353;
+    font-family: Mulish;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.txt-descri-sec-7 {
+    width: 1000px;
+    color: #727482;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 187.5% */
+}
+
+.boxes-opp-sec-7 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.boxing-opp {
+    padding-bottom: 40px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    justify-items: start;
+}
+
+.tittle-box {
+    color: #535353;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 10px;
+}
+
+.txt-boxes {
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background: #FFDBE1;
+    color: #DB3C57;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.boxing-opp- {
+    padding-bottom: 40px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    justify-items: end;
+}
+
+.txt-boxes- {
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background: #E7DBFF;
+    color: #7F64B5;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

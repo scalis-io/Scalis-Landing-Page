@@ -1,0 +1,100 @@
+.Sec-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    width: 1360px;
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+
+.sec-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.txt-left {
+    width: 633px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.title-left {
+    margin: 0;
+    color: #000;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.italic-left {
+    color: #0020D3;
+    font-size: 38px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.1px;
+}
+
+.buttons--sec-1 {
+    padding-top: 20px;
+    gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-book {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 2px solid #001298;
+    background: var(--white-100-main, #FFF);
+}.button-book:hover {
+    background: #0526ca15;
+}
+
+.txt-book {
+    color: #001298;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 22.4px */
+}
+
+.button-Sign-Now {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 2px solid #001298;
+    background: #001298;
+}.button-Sign-Now:hover {
+    background: #0526ca;
+}
+
+.txt-Sign-Now {
+    color: var(--white-100-main, #FFF);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 22.4px */
+}
